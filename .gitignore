@@ -1,3 +1,18 @@
+# SFML Library
+SFML-2.5.1/*
+
+# Project Directories
+*/.vs
+*/x64
+*/Build
+*/Debug
+*/Release
+
+# Project Files
+*.sln
+*.vcxproj
+*.vcxproj.*
+
 # Prerequisites
 *.d
 
